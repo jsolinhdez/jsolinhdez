@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jsolinhdez
-- 👀 I’m interested in projects use laravel
-- 🌱 I’m currently learning
+- 👀 I’m interested in projects use larave
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jsolinhdez@gmail.com
 
