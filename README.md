@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsolinhdez
-- 👀 I’m interested in django
-- 🌱 I’m currently learning python
+- 👀 I’m interested in projects use laravel
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jsolinhdez@gmail.com
 
